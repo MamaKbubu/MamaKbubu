@@ -24,7 +24,7 @@
 ## 🚀 Skills & Achievements
 
 - HTML, CSS, and JavaScript wizard.
-- Successfully delivered [X] projects with positive client feedback.
+- Successfully delivered [5] projects with positive client feedback.
 - Adept at collaborating with cross-functional teams for project success.
 - Continuous learner and enthusiast of new web technologies.
 
